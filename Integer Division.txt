@@ -1,0 +1,5 @@
+X = int(input().strip())
+
+result = X // 10
+
+print(result)
